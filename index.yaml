@@ -1,0 +1,58 @@
+apiVersion: v1
+entries:
+  bsaf-dtag:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-05T07:50:49.505738634-06:00"
+    description: A Helm chart for Kubernetes
+    digest: 4ae385b5a30ccbac5247af5bcbfe30f2fceba1e1147ef638c81c2ec9d8afaff2
+    name: bsaf-dtag
+    type: application
+    urls:
+    - bsaf-dtag.tgz
+    version: 0.1.0
+  bsaf-dtag-smartapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-05T07:50:49.505094678-06:00"
+    description: A Helm chart for Kubernetes
+    digest: 48c752b908dba3c6d78b521f0d2196f1c3e16faacdaaffc88b2e40c36c9da7ad
+    name: bsaf-dtag-smartapp
+    type: application
+    urls:
+    - bsaf-dtag-smartapp-0.1.0.tgz
+    version: 0.1.0
+  bsaf-magenta:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-05T07:50:49.506330067-06:00"
+    description: A Helm chart for Kubernetes
+    digest: df2d4fbe09831f00a09644669304276eea5b46ae71f065c36014eb50e0a208b4
+    name: bsaf-magenta
+    type: application
+    urls:
+    - bsaf-magenta.tgz
+    version: 0.1.0
+  bsaf-tim:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-05T07:50:49.509003951-06:00"
+    description: A Helm chart for Kubernetes
+    digest: 531902ccaa5e4070d16fc98907a4c0f1b999e6799673100ab534c679e250a341
+    name: bsaf-tim
+    type: application
+    urls:
+    - bsaf-tim.tgz
+    version: 0.1.0
+  bsaf-tim-smartapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-05T07:50:49.508107441-06:00"
+    description: A Helm chart for Kubernetes
+    digest: 2d852e51690bb7c3371deb0ee8f143b69adaafbefc6bf5e927d9f8efcfb92f76
+    name: bsaf-tim-smartapp
+    type: application
+    urls:
+    - bsaf-tim-smartapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-05T07:50:49.503379324-06:00"
