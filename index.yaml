@@ -3,7 +3,7 @@ entries:
   bsaf-dtag:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-05T07:50:49.505738634-06:00"
+    created: "2021-10-20T03:05:40.290096609-06:00"
     description: A Helm chart for Kubernetes
     digest: 4ae385b5a30ccbac5247af5bcbfe30f2fceba1e1147ef638c81c2ec9d8afaff2
     name: bsaf-dtag
@@ -14,7 +14,7 @@ entries:
   bsaf-dtag-smartapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-05T07:50:49.505094678-06:00"
+    created: "2021-10-20T03:05:40.289430303-06:00"
     description: A Helm chart for Kubernetes
     digest: 48c752b908dba3c6d78b521f0d2196f1c3e16faacdaaffc88b2e40c36c9da7ad
     name: bsaf-dtag-smartapp
@@ -25,7 +25,7 @@ entries:
   bsaf-magenta:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-05T07:50:49.506330067-06:00"
+    created: "2021-10-20T03:05:40.291867559-06:00"
     description: A Helm chart for Kubernetes
     digest: df2d4fbe09831f00a09644669304276eea5b46ae71f065c36014eb50e0a208b4
     name: bsaf-magenta
@@ -33,10 +33,21 @@ entries:
     urls:
     - bsaf-magenta.tgz
     version: 0.1.0
+  bsaf-magenta-smartapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-20T03:05:40.291165213-06:00"
+    description: A Helm chart for Kubernetes
+    digest: 08c6528469ae22fa719acf6e9f79e8c6a747a5d536465c20defd3aa6c61fc577
+    name: bsaf-magenta-smartapp
+    type: application
+    urls:
+    - bsaf-magenta-smartapp-0.1.0.tgz
+    version: 0.1.0
   bsaf-tim:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-05T07:50:49.509003951-06:00"
+    created: "2021-10-20T03:05:40.29680856-06:00"
     description: A Helm chart for Kubernetes
     digest: 531902ccaa5e4070d16fc98907a4c0f1b999e6799673100ab534c679e250a341
     name: bsaf-tim
@@ -47,7 +58,7 @@ entries:
   bsaf-tim-smartapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-05T07:50:49.508107441-06:00"
+    created: "2021-10-20T03:05:40.292956278-06:00"
     description: A Helm chart for Kubernetes
     digest: 2d852e51690bb7c3371deb0ee8f143b69adaafbefc6bf5e927d9f8efcfb92f76
     name: bsaf-tim-smartapp
@@ -55,4 +66,4 @@ entries:
     urls:
     - bsaf-tim-smartapp-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-05T07:50:49.503379324-06:00"
+generated: "2021-10-20T03:05:40.287762163-06:00"
